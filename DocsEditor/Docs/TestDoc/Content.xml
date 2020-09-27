@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root name="Руководство по WinForms">
+  <chapter name="Введение">
+    <paragraph name="Обзор GUI-библиотек"/>
+    <paragraph name="История WinForms"/>
+    <paragraph name="Значение WinForms"/>
+  </chapter>
+  <chapter name="Базовые элементы управления">
+    <paragraph name="Кнопочные элементы"/>
+    <paragraph name="Текстовые элементы"/>
+    <paragraph name="Использование меню"/>
+  </chapter>
+  <chapter name="Списочные элементы управления">
+    <paragraph name="Выпадающий список"/>
+    <paragraph name="Линейный список"/>
+    <paragraph name="Расширеный список"/>
+  </chapter>
+</root>
